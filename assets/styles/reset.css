@@ -8,6 +8,7 @@
 	font: inherit;
 	vertical-align: baseline;
 	font-family: "Montserrat", sans-serif;
+	box-sizing: border-box;
 }
 article, aside, details, figcaption, figure, 
 footer, header, hgroup, menu, nav, section {																	
